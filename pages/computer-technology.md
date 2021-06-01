@@ -1,9 +1,9 @@
 ---
 layout: page
 show_meta: false
-title: "Computer Technology."
-subheadline: "Computer Technology."
-teaser: "Computer Technology."
+title: "Computer Technology"
+subheadline: "Computer Technology"
+teaser: "Computer Technology"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "computer-technology/"
