@@ -5,7 +5,7 @@ title: "Biotechnology"
 subheadline: "Biotechnology"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "bio-technology/"
+permalink: "/bio-technology/"
 ---
 <ul>
     {% for post in site.categories.bio-technology %}
