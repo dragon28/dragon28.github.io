@@ -18,6 +18,10 @@
   url: "/chemical-technology/"
   side: left
   
+- title: "Mechatronic"
+  url: "/mechatronic/"
+  side: left
+  
 #- title: "Templates"
 #  url: "/design/"
 #  side: left
