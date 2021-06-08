@@ -8,7 +8,7 @@ header:
 permalink: "bio-technology/"
 ---
 <ul>
-    {% for post in site.categories.design %}
+    {% for post in site.categories.bio-technology %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
