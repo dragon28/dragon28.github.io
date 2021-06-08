@@ -6,7 +6,7 @@ subheadline: "Computer Technology"
 teaser: "Computer Technology"
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "computer-technology/"
+permalink: "/computer-technology/"
 ---
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.
