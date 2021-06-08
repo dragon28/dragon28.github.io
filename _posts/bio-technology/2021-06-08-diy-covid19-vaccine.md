@@ -1,9 +1,9 @@
 ---
 layout: page
-sidebar: left
-subheadline: Templates
-title:  "Page/Post With Left Sidebar"
-teaser: "This is a example of page/post with a sidebar on the left."
+sidebar: "left right"
+subheadline: "DIY Covid-19 Vaccine"
+title:  "DIY Covid-19 Vaccine"
+teaser: "DIY Covid-19 Vaccine"
 breadcrumb: true
 tags:
     - post format
