@@ -1,6 +1,6 @@
 ---
 layout: page
-#sidebar: right
+{%sidebar: right%}
 subheadline: "DIY Covid-19 Vaccine"
 title:  "DIY Covid-19 Vaccine from Rapid Deployment Vaccine Collaborative(RaDVaC)"
 teaser: "DIY Covid-19 Vaccine from Rapid Deployment Vaccine Collaborative(RaDVaC)"
