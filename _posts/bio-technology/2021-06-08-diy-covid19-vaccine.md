@@ -3,7 +3,7 @@ layout: page
 #sidebar: right
 subheadline: "DIY Covid-19 Vaccine"
 title:  "DIY Covid-19 Vaccine from Rapid Deployment Vaccine Collaborative(RaDVaC)"
-teaser: "DIY Covid-19 Vaccine from Rapid Deployment Vaccine Collaborative(RaDVaC)"
+#teaser: "DIY Covid-19 Vaccine from Rapid Deployment Vaccine Collaborative(RaDVaC)"
 breadcrumb: true
 tags:
     - post bio-technology
@@ -12,8 +12,8 @@ categories:
 image:
     thumb: gallery-example-2-thumb.jpg
     title: gallery-example-2.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+    #caption: Unsplash.com
+    #caption_url: http://unsplash.com
 ---
 
 Please take note this vaccine was developed by [Rapid Deployment Vaccine Collaborative(RaDVaC)](https://radvac.org/) and it was for **research and development(R&D) purpose**.  
