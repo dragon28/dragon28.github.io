@@ -52,6 +52,6 @@ For more information you may refer to [RaDVaC White Paper on the SARS-CoV-2 vacc
 
 
 
-## Other Post Formats
+## Other Post Bio-Technology
 {: .t60 }
 {% include list-posts tag='post bio-technology' %}
