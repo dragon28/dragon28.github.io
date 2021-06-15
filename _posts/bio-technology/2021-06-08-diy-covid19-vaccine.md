@@ -49,7 +49,9 @@ All materials and ingredients are commercially available. Again, the vaccine is 
 
 For more information you may refer to [RaDVaC White Paper on the SARS-CoV-2 vaccine rationale, design, materials, protocols, and testing.](https://radvac.org/white-paper/)
 
+Reference:
 
+[Some scientists are taking a DIY coronavirus vaccine, and nobody knows if it’s legal or if it works](https://www.technologyreview.com/2020/07/29/1005720/george-church-diy-coronavirus-vaccine/)
 
 
 ## Other Post Bio-Technology
