@@ -16,7 +16,7 @@ image:
     caption_url: http://unsplash.com
 ---
 
-Please take note this vaccine was developed by [Rapid Deployment Vaccine Collaborative(RaDVaC)](https://radvac.org/) and it was for research and development(R&D) purpose.  
+Please take note this vaccine was developed by [Rapid Deployment Vaccine Collaborative(RaDVaC)](https://radvac.org/) and it was for **research and development(R&D) purpose**.  
 
 
 ## Preferred equipment and materials
