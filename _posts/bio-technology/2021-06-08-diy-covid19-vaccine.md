@@ -23,6 +23,7 @@ Please take note this vaccine was developed by [Rapid Deployment Vaccine Collabo
 
 Certain equipment is required for efficient vaccine production and administration. Vaccine can be produced without specialized laboratory equipment but the process is more laborious and the results are likely to be more variable.
 
+
     * Pipettes: 1000 microliter, 200 microliter
     * Sterile filtered pipette tips: 1000 microliter, 200 microliter
     * Scale: gram scale accurate to 0.1 grams, or jeweler’s scale for very small amounts
@@ -36,9 +37,12 @@ Certain equipment is required for efficient vaccine production and administratio
     * OPTIONAL but recommended: pH strips; range at least 2.0 to 9.0, but ideally from 0 to 10.0
     * Nasal spray apparatus. These are available through multiple vendors. We selected small nasal spray bottles (about 5 milliliter) with a pump-top apparatus. A tube stem about 4 cm long and approximately 1 mm inner diameter extends from the bottom of the apparatus, which can be placed into the bottom of a 2-ml tube containing vaccine. Our spray apparatus delivers about 100 microliters per pump.
 
+
+
 ## Acquiring vaccine ingredients
 
 All materials and ingredients are commercially available. Again, the vaccine is very simple and consists of the following ingredients: peptide(s), chitosan, sodium triphosphate, sodium chloride, and water.
+
 
     * Epitope/antigen peptides. Multiple vendor options are available for synthetic peptides. These peptides are small synthetically produced portions of viral sequences.
     * Water-soluble chitosan derivatives such as trimethyl chitosan and HACC.
