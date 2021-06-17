@@ -1,5 +1,5 @@
 ---
-layout: video #page
+layout: page
 #sidebar: right
 subheadline: "DIY Oxygen Concentrator"
 title:  "DIY Oxygen Concentrator Using Hardware Store Parts"
@@ -16,9 +16,10 @@ image:
     #caption_url: http://unsplash.com
 ---
 
-iframe: "<iframe width="560" height="315" src="https://www.youtube.com/embed/8fDJ30SG4NA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+video:
+    embedURL: "https://youtu.be/8fDJ30SG4NA"
 
-iframe: "<iframe width="560" height="315" src="https://www.youtube.com/embed/tobUvesSOzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+
 
 
 
