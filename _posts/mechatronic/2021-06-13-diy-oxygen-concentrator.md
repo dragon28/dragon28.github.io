@@ -6,7 +6,7 @@ title:  "DIY Oxygen Concentrator Using Hardware Store Parts"
 #teaser: ""
 breadcrumb: true
 tags:
-    - mechatronic
+    - mechatronic oxygen concentrator
 categories:
     - mechatronic
 image:
