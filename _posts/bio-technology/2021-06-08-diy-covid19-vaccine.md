@@ -63,6 +63,6 @@ Reference:
 [Some scientists are taking a DIY coronavirus vaccine, and nobody knows if it’s legal or if it works](https://www.technologyreview.com/2020/07/29/1005720/george-church-diy-coronavirus-vaccine/)
 
 
-## Other Post Bio-Technology
+## Bio-Technology
 {: .t60 }
-{% include list-posts tag='post bio-technology' %}
+{% include list-posts tag='bio-technology' %}
