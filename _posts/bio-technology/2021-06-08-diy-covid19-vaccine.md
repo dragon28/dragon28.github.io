@@ -51,9 +51,14 @@ All materials and ingredients are commercially available. Again, the vaccine is 
     * dH2O, deionized water (widely available).
     * OPTIONAL: White vinegar and/or sodium bicarbonate (NaHCO3, baking soda) to adjust pH.
 
-For more information you may refer to [RaDVaC White Paper on the SARS-CoV-2 vaccine rationale, design, materials, protocols, and testing.](https://radvac.org/white-paper/)
+For more information you may refer to [RaDVaC White Paper on the SARS-CoV-2 vaccine rationale, design, materials, protocols, and testing](https://radvac.org/white-paper/) or download using this [link](https://github.com/dragon28/dragon28.github.io/raw/gh-pages/pdf/White-Paper-SARS-CoV-2-vaccine-ver-4-1-2.pdf).
 
 Source:
+
+[Rapid Deployment Vaccine Collaborative(RaDVaC)](https://radvac.org/vaccine/)
+
+
+Reference:
 
 [Some scientists are taking a DIY coronavirus vaccine, and nobody knows if it’s legal or if it works](https://www.technologyreview.com/2020/07/29/1005720/george-church-diy-coronavirus-vaccine/)
 
