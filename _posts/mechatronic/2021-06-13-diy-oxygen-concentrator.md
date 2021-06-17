@@ -16,7 +16,7 @@ image:
     #caption_url: http://unsplash.com
 ---
 
-(https://img.youtube.com/vi/8fDJ30SG4NA/0.jpg)](https://www.youtube.com/watch?v=8fDJ30SG4NA)
+[!(https://img.youtube.com/vi/8fDJ30SG4NA/0.jpg)](https://www.youtube.com/watch?v=8fDJ30SG4NA)
 
 
 
