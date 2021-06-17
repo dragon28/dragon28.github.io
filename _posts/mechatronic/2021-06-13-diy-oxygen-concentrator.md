@@ -1,5 +1,5 @@
 ---
-layout: page,video
+layout: video #page
 #sidebar: right
 subheadline: "DIY Oxygen Concentrator"
 title:  "DIY Oxygen Concentrator Using Hardware Store Parts"
