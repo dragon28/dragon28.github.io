@@ -6,7 +6,7 @@ title:  "DIY Covid-19 Vaccine from Rapid Deployment Vaccine Collaborative(RaDVaC
 #teaser: "DIY Covid-19 Vaccine from Rapid Deployment Vaccine Collaborative(RaDVaC)"
 breadcrumb: true
 tags:
-    - bio-technology vaccine
+    - bio-technology vaccine covid covid19 covid-19
 categories:
     - bio-technology
 image:
