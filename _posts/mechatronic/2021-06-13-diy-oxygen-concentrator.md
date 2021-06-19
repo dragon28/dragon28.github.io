@@ -24,12 +24,7 @@ Maker's Asylum M-19 Initiative:
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/tobUvesSOzw/0.jpg)](https://www.youtube.com/watch?v=tobUvesSOzw)
 
  OxiKit Oxygen Concentrator Hardware Store Parts:
-<object data="https://github.com/dragon28/oxygen-concentrator-how-to-diy-open-source/raw/main/Bundle_for_Oxikit_BOM.pdf" type="application/pdf">
-    <embed src="https://github.com/dragon28/oxygen-concentrator-how-to-diy-open-source/raw/main/Bundle_for_Oxikit_BOM.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/dragon28/oxygen-concentrator-how-to-diy-open-source/raw/main/Bundle_for_Oxikit_BOM.pdf">Download PDF</a>.
-        </p>
-    </embed>
-</object>
+[Bundle_for_Oxikit_BOM.pdf](https://dragon28.github.io/docs/Bundle_for_Oxikit_BOM.pdf)
 
  
 <embed src="https://github.com/dragon28/oxygen-concentrator-how-to-diy-open-source/raw/main/Bundle_for_Oxikit_BOM.pdf" type="application/pdf">
