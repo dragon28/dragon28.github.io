@@ -25,6 +25,7 @@ Maker's Asylum M-19 Initiative:
 
  OxiKit Oxygen Concentrator Hardware Store Parts:
 ![Bundle_for_Oxikit_BOM.pdf](/docs/Bundle_for_Oxikit_BOM.pdf)
+<image src="/docs/Bundle_for_Oxikit_BOM.pdf"/>
 
 
 OxiKit Oxygen Concentrator Circuit Diagram:
