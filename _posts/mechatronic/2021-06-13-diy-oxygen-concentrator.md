@@ -28,7 +28,21 @@ Maker's Asylum M-19 Initiative:
 
 [OxiKit Oxygen Concentrator Arduino Code v2](https://raw.githubusercontent.com/dragon28/oxygen-concentrator-how-to-diy-open-source/main/OxiKit_Final_Arduino_Code_v2.ino)
 
+You may refer to 
 
+[OxiKit Oxygen Concentrator](https://hackaday.io/project/178334-oxikit-oxygen-concentrator)
+
+or
+
+[Maker's Asylum M-19 o2 Oxygen Concentrator](https://www.makersasylum.com/m19o2/)
+
+for more information and details on how to build the oxygen concentrator.
+
+On the other hand, you may also refer to the 2 repositories below for more information:
+
+1. [oxygen-concentrator-how-to-diy-open-source](https://github.com/dragon28/oxygen-concentrator-how-to-diy-open-source)
+
+2. [M19_OxiKit](https://github.com/dragon28/M19_OxiKit)
 
 Source:
 
