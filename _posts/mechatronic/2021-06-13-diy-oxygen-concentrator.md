@@ -30,6 +30,12 @@ OxiKit Oxygen Concentrator Hardware Store Parts:
 OxiKit Oxygen Concentrator Circuit Diagram:
 ![IMAGE ALT TEXT](https://github.com/dragon28/dragon28.github.io/raw/gh-pages/images/OxiKit_DIY_Oxygen_Concentrator_Schematics.png?raw=true)
 
+
+OxiKit Oxygen Concentrator Zeolite Sieve Assembly Diagram:
+![IMAGE ALT TEXT](https://github.com/dragon28/dragon28.github.io/raw/gh-pages/images/OxiKit_Oxygen_Concentrator_Zeolite_Sieve_Assembly_Diagram.png?raw=true)
+
+
+
 [OxiKit Oxygen Concentrator Arduino Code v2](https://raw.githubusercontent.com/dragon28/oxygen-concentrator-how-to-diy-open-source/main/OxiKit_Final_Arduino_Code_v2.ino)
 
 You may refer to 
