@@ -1,7 +1,7 @@
 ---
 layout: page
 #sidebar: right
-subheadline: "Open source software for personalized cancer medicine and care"
+subheadline: "Open source software for personalized cancer treatment"
 title:  "Open source software for personalized cancer medicine and care"
 #teaser: ""
 breadcrumb: true
