@@ -25,11 +25,10 @@ Maker's Asylum M-19 Initiative:
 
 OxiKit Oxygen Concentrator Hardware Store Parts:
 ![IMAGE ALT TEXT](https://github.com/dragon28/dragon28.github.io/raw/gh-pages/images/Bundle_for_Oxikit_BOM.png?raw=true)
-
+![IMAGE ALT TEXT](https://github.com/dragon28/dragon28.github.io/raw/gh-pages/images/OxiKit_Oxygen_Concentrator_Completed_Parts.png?raw=true)
 
 OxiKit Oxygen Concentrator Circuit Diagram:
 ![IMAGE ALT TEXT](https://github.com/dragon28/dragon28.github.io/raw/gh-pages/images/OxiKit_DIY_Oxygen_Concentrator_Schematics.png?raw=true)
-
 
 OxiKit Oxygen Concentrator Zeolite Sieve Assembly Diagram:
 ![IMAGE ALT TEXT](https://github.com/dragon28/dragon28.github.io/raw/gh-pages/images/OxiKit_Oxygen_Concentrator_Zeolite_Sieve_Assembly_Diagram.png?raw=true)
