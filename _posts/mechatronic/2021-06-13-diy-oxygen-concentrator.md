@@ -23,8 +23,11 @@ OxiKit:
 Maker's Asylum M-19 Initiative:                           
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/tobUvesSOzw/0.jpg)](https://www.youtube.com/watch?v=tobUvesSOzw)
 
+ OxiKit Oxygen Concentrator Hardware Store Parts: 
+[![IMAGE ALT TEXT](https://github.com/dragon28/oxygen-concentrator-how-to-diy-open-source/raw/main/Bundle_for_Oxikit_BOM.pdf)](https://github.com/dragon28/oxygen-concentrator-how-to-diy-open-source/raw/main/Bundle_for_Oxikit_BOM.pdf)
 
-[OxiKit Oxygen Concentrator Hardware Store Parts and Circuit Diagram](https://github.com/dragon28/oxygen-concentrator-how-to-diy-open-source/blob/main/Oxikit%20Documentation.pdf)
+OxiKit Oxygen Concentrator Circuit Diagram:
+[![IMAGE ALT TEXT](https://github.com/dragon28/oxygen-concentrator-how-to-diy-open-source/raw/main/OxiKit%20DIY%20Oxygen%20Concentrator%2015%20LPM%20High%20Flow%20Design%20and%20Schematics.pdf)](https://github.com/dragon28/oxygen-concentrator-how-to-diy-open-source/raw/main/OxiKit%20DIY%20Oxygen%20Concentrator%2015%20LPM%20High%20Flow%20Design%20and%20Schematics.pdf)
 
 [OxiKit Oxygen Concentrator Arduino Code v2](https://raw.githubusercontent.com/dragon28/oxygen-concentrator-how-to-diy-open-source/main/OxiKit_Final_Arduino_Code_v2.ino)
 
