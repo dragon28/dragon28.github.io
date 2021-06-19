@@ -47,7 +47,7 @@ On the other hand, you may also refer to the 2 repositories below for more infor
 
 2. [M19_OxiKit](https://github.com/dragon28/M19_OxiKit)
 
-Source:
+Source(s):
 
 1. [A Simple But Effective High-Flow Oxygen Concentrator From Hardware Store Parts](https://hackaday.com/2021/03/24/a-simple-but-effective-high-flow-oxygen-concentrator-from-hardware-store-parts/)
 
@@ -57,7 +57,7 @@ Source:
 
 4. [Maker's Asylum M-19 Initiative](https://www.makersasylum.com/m19-initiative/)
 
-Reference:
+Reference(s):
 
 1. [A Simple But Effective High-Flow Oxygen Concentrator From Hardware Store Parts](https://hackaday.com/2021/03/24/a-simple-but-effective-high-flow-oxygen-concentrator-from-hardware-store-parts/)
 
