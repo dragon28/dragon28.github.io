@@ -19,9 +19,9 @@ image:
 
 Source(s):
 
-1. https://www.openvax.org/
+1. [OpenVax](https://www.openvax.org/)
 
-2. https://griffithlab.org/
+2. [The Griffith Lab](https://griffithlab.org/)
 
 
 
