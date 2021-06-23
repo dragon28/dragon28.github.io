@@ -10,8 +10,8 @@ tags:
 categories:
     - bio-technology
 image:
-    thumb: covid_vaccine-thumb.jpg
-    title: covid_vaccine.jpg
+    #thumb: covid_vaccine-thumb.jpg
+    #title: covid_vaccine.jpg
     #caption: Unsplash.com
     #caption_url: http://unsplash.com
 ---
