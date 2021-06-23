@@ -28,6 +28,11 @@ OpenVax Open Software for personalized cancer medicine and care:
 
 5. [pyensembl: Python interface to access reference genome features (such as genes, transcripts, and exons) from Ensembl](https://github.com/openvax/pyensembl) 
 
+
+Griffith Lab Open Software for personalized cancer medicine and care:
+ 
+1. [CIViC: Clinical Interpretations of Variants in Cancer](https://civicdb.org/home)github: [civic-client](https://github.com/griffithlab/civic-client), [civic-server](https://github.com/griffithlab/civic-server) 
+
 Source(s):
 
 1. [OpenVax](https://www.openvax.org/)
