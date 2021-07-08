@@ -10,8 +10,8 @@ tags:
 categories:
     - mechatronic
 image:
-    thumb: gallery-example-2-thumb.jpg
-    title: gallery-example-2.jpg
+    #thumb: gallery-example-2-thumb.jpg
+    #title: gallery-example-2.jpg
     #caption: Unsplash.com
     #caption_url: http://unsplash.com
 ---
