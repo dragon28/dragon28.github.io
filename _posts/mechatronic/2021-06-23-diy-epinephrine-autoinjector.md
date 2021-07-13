@@ -18,11 +18,11 @@ image:
 
 Please take note the following information was for education purpose. Therefore the writer are not responsible or accountable for or in any forms of damage, injury and death. 
 
-EpiPencil Video: 
+EpiPencil Video:                                                                                                           
 [![IMAGE ALT TEXT](https://archive.org/download/EpiPencil_201801/EpiPencil_201801.thumbs/EpiPencil_000057.jpg)](https://archive.org/details/EpiPencil_201801)
 
 
-EpiPencil Updated Video: 
+EpiPencil Updated Video:                                                                                                
 [![IMAGE ALT TEXT](https://archive.org/download/EpiPencilUpdate/EpiPencilUpdate.thumbs/EpiPencil%20Update_000057.jpg)](https://archive.org/details/EpiPencilUpdate)
 
 Equipment and materials required to construct or make Epinephrine Autoinjector (EpiPencil):
