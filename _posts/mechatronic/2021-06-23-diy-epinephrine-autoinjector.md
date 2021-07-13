@@ -35,7 +35,7 @@ Equipment and materials required to construct or make Epinephrine Autoinjector (
    3. [1" 22G Luer Lock Hypodermic Needle (10-pack)](https://www.healthykin.com//p-5048-bd-precisionglide-single-use-hypodermic-needles.aspx?gclid=CJ7v-dG2lM8CFUeBfgodMKYBxw)
 
 
-Please refer to [Introducing the EpiPencil](https://fourthievesvinegar.org/?b=001)
+Please refer to [Introducing the EpiPencil](https://fourthievesvinegar.org/?b=001) for more information.
 
 Source(s):
 
