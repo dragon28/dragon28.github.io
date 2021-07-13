@@ -28,11 +28,11 @@ EpiPencil Updated Video:
 Equipment and materials required to construct or make Epinephrine Autoinjector (EpiPencil):
 
 
-    * [Autoinject 2 non-fixed needle device #AJ1311](https://www.adwdiabetes.com/product/owen-mumford-autoject-2-non-fixed-needle_7753.htm)
+    1. [Autoinject 2 non-fixed needle device #AJ1311](https://www.adwdiabetes.com/product/owen-mumford-autoject-2-non-fixed-needle_7753.htm)
 
-    * [1mL luer slip syringe (10-pack)](https://www.amazon.com/BD-SYRINGE-Leur-Lock-Pack/dp/B01BLV8V3Y/ref=sr_1_1?s=industrial&ie=UTF8&qid=1533156095&sr=1-1&keywords=1ml+luer+lock+syringe)
+    2. [1mL luer slip syringe (10-pack)](https://www.amazon.com/BD-SYRINGE-Leur-Lock-Pack/dp/B01BLV8V3Y/ref=sr_1_1?s=industrial&ie=UTF8&qid=1533156095&sr=1-1&keywords=1ml+luer+lock+syringe)
 
-    * [1" 22G Luer Lock Hypodermic Needle (10-pack)](https://www.healthykin.com//p-5048-bd-precisionglide-single-use-hypodermic-needles.aspx?gclid=CJ7v-dG2lM8CFUeBfgodMKYBxw)
+    3. [1" 22G Luer Lock Hypodermic Needle (10-pack)](https://www.healthykin.com//p-5048-bd-precisionglide-single-use-hypodermic-needles.aspx?gclid=CJ7v-dG2lM8CFUeBfgodMKYBxw)
 
 
 Please refer to [Introducing the EpiPencil](https://fourthievesvinegar.org/?b=001)
