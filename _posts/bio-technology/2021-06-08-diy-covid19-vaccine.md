@@ -54,9 +54,10 @@ All materials and ingredients are commercially available. Again, the vaccine is 
 For more information you may refer to [RaDVaC White Paper on the SARS-CoV-2 vaccine rationale, design, materials, protocols, and testing](https://radvac.org/white-paper/) or download using this [link](https://github.com/dragon28/dragon28.github.io/raw/gh-pages/pdf/White-Paper-SARS-CoV-2-vaccine-ver-4-1-2.pdf).
 
 
-Another alternative DIY Covid-19 DNA vaccine information:
 
-For mmore information please reffer to [SARS CoV 2 DNA vaccine](https://drive.google.com/drive/folders/1SracILuRbiZt4f7EVH2JBvefaHmsOUsC) or [Made a Covid-19 Vaccine in my Kitchen and it Worked](http://www.josiahzayner.com/2020/12/i-made-covid-19-vaccine-in-my-kitchen.html)
+Another alternative DIY Covid-19 vaccine information:
+
+For more information please reffer to [SARS CoV 2 DNA vaccine](https://drive.google.com/drive/folders/1SracILuRbiZt4f7EVH2JBvefaHmsOUsC) or [Made a Covid-19 Vaccine in my Kitchen and it Worked](http://www.josiahzayner.com/2020/12/i-made-covid-19-vaccine-in-my-kitchen.html)
 
 
 
