@@ -6,7 +6,7 @@ title:  "Open source software for personalized cancer medicine and care"
 #teaser: ""
 breadcrumb: true
 tags:
-    - bio-technology vaccine cancer open source open-source
+    - bio-technology vaccine cancer open source open-source diy
 categories:
     - bio-technology
 image:
@@ -61,6 +61,9 @@ Griffith Lab Open Software for personalized cancer medicine and care:
 9. [CIViCpy: A software development kit (SDK) for the CIViC knowledgebase](http://civicpy.org/)
    github: [CIViCpy](https://github.com/griffithlab/civicpy)
    
+DIY cancer vaccine:
+
+1. [How to make and treat yourself with a peptide vaccine targeting the EGFR T790M mutation](https://docs.google.com/document/d/1Xk5S0DwdXy8bVY30PJA07Z_uWcXr5P6Ejt4cJj3pNBw/edit)
    
 Source(s):
 
@@ -68,12 +71,19 @@ Source(s):
 
 2. [The Griffith Lab](https://griffithlab.org/)
 
+3. [The DIY Movement . . . in Cancer Vaccines](https://epivax.com/blog/the-diy-movement-in-cancer-vaccines)
+
+4. [How to make and treat yourself with a peptide vaccine targeting the EGFR T790M mutation](https://docs.google.com/document/d/1Xk5S0DwdXy8bVY30PJA07Z_uWcXr5P6Ejt4cJj3pNBw/edit)
+
+5. [crohnology](https://crohnology.com/)
 
 Reference(s):
 
 1. [bio.tools](https://bio.tools/)
 
 2. [Bioconductor](https://bioconductor.org/)
+
+3. [When Hope Runs Out, Cancer Patients Are Making Their Own DIY Immunotherapy Treatments](https://gizmodo.com/when-hope-runs-out-cancer-patients-are-making-their-ow-1819405332)
 
 ## Bio-Technology
 {: .t60 }
