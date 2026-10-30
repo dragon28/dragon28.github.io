@@ -34,13 +34,13 @@
 	<script>
 		WebFont.load({
 			google: {
-				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+				families: [ 'Inter:400,600,400italic:latin', 'Space Grotesk:500,700:latin', 'JetBrains Mono:400:latin' ]
 			}
 		});
 	</script>
 
 	<noscript>
-		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Inter:400,600%7CSpace+Grotesk:500,700%7CJetBrains+Mono' rel='stylesheet' type='text/css'>
 	</noscript>
 
 
@@ -87,5 +87,6 @@
 	{% include _favicon.html %}
 
 	{% unless page.style == NULL %}
+	<meta name="theme-color" content="#0b0f1a">
 	<style type="text/css">{{ page.style }}</style>
 	{% endunless %}
