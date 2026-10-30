@@ -3,11 +3,11 @@
     <h2 id="d28-proj-h">Projects on GitHub</h2>
     <div class="d28-grid">
       {% for r in site.data.github_projects %}
-      <a class="d28-card" href="{{ r.url }}" target="_blank" rel="noopener">
-        <h3>{{ r.name | escape }}</h3>
-        <p>{% if r.description %}{{ r.description | escape }}{% else %}No description yet.{% endif %}</p>
-        <span class="d28-meta">{% if r.language %}<span class="d28-dot"></span>{{ r.language }}{% endif %} <span>&#9733; {{ r.stars }}</span></span>
-      </a>
+      <div class="d28-card">
+        <h3><a class="d28-stretch" href="{{ r.url }}" target="_blank" rel="noopener">{{ r.name | escape }}</a></h3>
+        <div class="d28-desc">{% if r.description %}{{ r.description | escape }}{% else %}No description yet.{% endif %}</div>
+        <div class="d28-meta">{% if r.language %}<span class="d28-dot"></span>{{ r.language }}{% endif %} <span>&#9733; {{ r.stars }}</span></div>
+      </div>
       {% endfor %}
     </div>
     <p class="t20"><a href="https://github.com/dragon28" target="_blank" rel="noopener">See all repositories &rarr;</a></p>
