@@ -1,0 +1,15 @@
+<section class="row t30 b30 d28-projects" aria-labelledby="d28-proj-h">
+  <div class="small-12 columns">
+    <h2 id="d28-proj-h">Projects on GitHub</h2>
+    <div class="d28-grid">
+      {% for r in site.data.github_projects %}
+      <a class="d28-card" href="{{ r.url }}" target="_blank" rel="noopener">
+        <h3>{{ r.name | escape }}</h3>
+        <p>{% if r.description %}{{ r.description | escape }}{% else %}No description yet.{% endif %}</p>
+        <span class="d28-meta">{% if r.language %}<span class="d28-dot"></span>{{ r.language }}{% endif %} <span>&#9733; {{ r.stars }}</span></span>
+      </a>
+      {% endfor %}
+    </div>
+    <p class="t20"><a href="https://github.com/dragon28" target="_blank" rel="noopener">See all repositories &rarr;</a></p>
+  </div>
+</section>
