@@ -8,7 +8,7 @@ widget1:
   text: 'Notes and write-ups on open, do-it-yourself technology: open insulin, DIY vaccines, open-source cancer care software, oxygen concentrators and more.'
 widget2:
   title: "Topics"
-  text: '<a href="/bio-technology/">Biotechnology</a><br/><a href="/mechatronic/">Mechatronics</a><br/><a href="/chemical-technology/">Chemical Technology</a><br/><a href="/computer-technology/">Computer Technology</a>'
+  text: '<a href="/bio-technology/">Biotechnology</a><br/><a href="/mechatronic/">Mechatronics</a><br/><a href="/chemical-technology/">Chemical Technology</a><br/><a href="/computer-technology/">Computer Technology</a><br/><a href="/nano-technology/">NanoTechnology</a>'
 widget3:
   title: "Open Source"
   url: 'https://github.com/dragon28'

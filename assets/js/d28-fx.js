@@ -11,7 +11,7 @@
 
   /* typed slogan: types once, stops on the main slogan */
   var FINAL = 'Technology Research and Information';
-  var phrases = ['Bio · Chemical · Computer · Mechatronic', FINAL];
+  var phrases = ['Bio · Chemical · Computer · Nano · Mechatronic', FINAL];
   var box = document.createElement('p');
   box.className = 'd28-typed';
   box.setAttribute('aria-label', FINAL);

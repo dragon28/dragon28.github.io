@@ -5,6 +5,9 @@
 - title: "Computer Technology"
   url: "/computer-technology/"
   side: left
+- title: "NanoTechnology"
+  url: "/nano-technology/"
+  side: left
 
 
 - title: "BioTechnology"
