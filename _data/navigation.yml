@@ -6,9 +6,6 @@
   url: "/computer-technology/"
   side: left
 
-- title: "NanoTechnology"
-  url: "/nano-technology/"
-  side: left
 
 - title: "BioTechnology"
   url: "/bio-technology/"
@@ -86,6 +83,3 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
