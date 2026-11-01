@@ -7,6 +7,7 @@
         <h3><a class="d28-stretch" href="{{ r.url }}" target="_blank" rel="noopener">{{ r.name | escape }}</a></h3>
         <div class="d28-desc">{% if r.description %}{{ r.description | escape }}{% else %}No description yet.{% endif %}</div>
         <div class="d28-meta">{% if r.language %}<span class="d28-dot"></span>{{ r.language }}{% endif %} <span>&#9733; {{ r.stars }}</span></div>
+        {% if r.live %}<a class="d28-live" href="{{ r.live }}" target="_blank" rel="noopener">View live report &rarr;</a>{% endif %}
       </div>
       {% endfor %}
     </div>

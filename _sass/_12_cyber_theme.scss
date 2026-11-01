@@ -81,6 +81,7 @@ img{border-radius:10px;}
 .reveal-modal{background:var(--bg2)!important;}
 .d28-card{position:relative;}
 .d28-stretch::after{content:"";position:absolute;inset:0;}
+.d28-live{position:relative;z-index:2;display:inline-block;margin-top:.5rem;font-weight:600;}
 .d28-desc{flex:1;font-size:.95rem;color:var(--mut);margin-bottom:.8rem;}
 .d28-card:focus-within{border-color:var(--a1);}
 
