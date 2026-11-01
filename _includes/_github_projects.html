@@ -8,6 +8,7 @@
         <div class="d28-desc">{% if r.description %}{{ r.description | escape }}{% else %}No description yet.{% endif %}</div>
         <div class="d28-meta">{% if r.language %}<span class="d28-dot"></span>{{ r.language }}{% endif %} <span>&#9733; {{ r.stars }}</span></div>
         {% if r.live %}<a class="d28-live" href="{{ r.live }}" target="_blank" rel="noopener">View live report &rarr;</a>{% endif %}
+        {% if r.interactive %}<a class="d28-live" style="margin-left:1rem" href="{{ r.interactive }}" target="_blank" rel="noopener">Open interactive dashboard &rarr;</a>{% endif %}
       </div>
       {% endfor %}
     </div>
