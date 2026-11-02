@@ -43,7 +43,7 @@ jobs:
           grep -q '"status": "success"' n8n.log
           tail -5 serve.log
           pkill -f 'radar serve' || true
-          ls -l out/posts
+          ls -l out/posts 2>/dev/null || echo "no new stories since last run"
       - name: save dedup state
         run: |
           d=$(mktemp -d); cp radar/data/radar.sqlite "$d/"
