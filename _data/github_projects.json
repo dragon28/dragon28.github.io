@@ -30,8 +30,7 @@
   "name": "dify-research-agent",
   "stars": 0,
   "url": "https://github.com/dragon28/dify-research-agent",
-  "interactive": "https://github.com/dragon28/dify-research-agent/tree/master/examples",
-  "interactive_label": "Read example reports"
+  "live": "https://dragon28.github.io/dify-research-agent/"
  },
  {
   "description": "The \"Notebook\" - Multi-File Markdown Editor from prompt engineering",
