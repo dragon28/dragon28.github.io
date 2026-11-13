@@ -18,6 +18,15 @@
   "interactive_label": "Open interactive demo"
  },
  {
+  "description": "Hand-written Double DQN (PyTorch) that learns Snake: random and food-seeking baselines, held-out evaluation over 3 training seeds, training-progress GIF",
+  "language": "Python",
+  "name": "snake-rl",
+  "stars": 0,
+  "url": "https://github.com/dragon28/snake-rl",
+  "interactive": "https://github.com/dragon28/snake-rl/blob/main/docs/training.gif",
+  "interactive_label": "Watch training GIF"
+ },
+ {
   "description": "Weekly science-news digest: n8n workflow + tested Python core (dedupe, topic rules, drafts reviewed before publishing)",
   "language": "Python",
   "name": "research-radar",
