@@ -1,0 +1,17 @@
+{% comment %} Topic page: own articles + this topic's section of the latest Research Radar digest. {% endcomment %}
+<h2>Articles</h2>
+{% assign own = "" | split: "" %}{% for p in site.categories[include.cat] %}{% unless p.tags contains 'research-radar' %}{% assign own = own | push: p %}{% endunless %}{% endfor %}
+{% if own.size > 0 %}
+<ul>{% for post in own %}<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>{% endfor %}</ul>
+{% else %}
+<p>No articles in this topic yet. Browse the <a href="{{ '/blog/' | relative_url }}">latest articles</a> or the <a href="https://github.com/dragon28">GitHub projects</a>.</p>
+{% endif %}
+{% assign radar = site.categories['research-radar'] | first %}
+{% if radar %}
+<h2>Latest {{ include.heading }} news</h2>
+<p><small>From <a href="{{ radar.url | relative_url }}">{{ radar.title }}</a> &middot; <a href="{{ '/research-radar/' | relative_url }}">all Research Radar digests</a>. Excerpts come from the publishers' feeds.</small></p>
+{% assign marker = '>' | append: include.heading | append: ' (' %}{% assign found = false %}
+{% assign chunks = radar.content | split: '<h2' %}
+{% for c in chunks %}{% if c contains marker %}{% assign found = true %}{% assign body = c | split: '</h2>' | last %}{{ body }}{% endif %}{% endfor %}
+{% unless found %}<p>No {{ include.heading }} stories in the latest digest.</p>{% endunless %}
+{% endif %}

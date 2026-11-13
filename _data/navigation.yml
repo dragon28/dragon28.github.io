@@ -21,6 +21,10 @@
 - title: "Mechatronic"
   url: "/mechatronic/"
   side: left
+
+- title: "Research Radar"
+  url: "/research-radar/"
+  side: left
   
 #- title: "Templates"
 #  url: "/design/"
